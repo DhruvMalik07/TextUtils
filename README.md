@@ -1,3 +1,7 @@
+Till vid 17 of React 
+About, Router and some other functionalities were disabled to post on Git Hub Pages.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
